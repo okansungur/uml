@@ -7,7 +7,7 @@
 - UML 'in doğuşu son yıllarda yazılım endüstrisindeki en büyük gelişmelerden biri olarak kabul edilebilir. UML 1997 yılında yazılımın, diyagram şeklinde ifade edilmesi için bir standartlar komitesi tarafından oluşturuldu.
 
 
-#Faydaları
+### Faydaları
 
 1-)Öncelikle programımız kodlanmaya başlamadan önce geniş bir analizi ve tasarımı yapılmış olacğından kodlama işlemi daha kolay olur. Çünkü programdan ne beklediğimizi ve programlama ile neler yapacağımızı profesyonel bir şekilde belirleriz UML ile.
 
@@ -33,6 +33,29 @@ Sistemin nelerden meydana geldiğini gösteren bakış açısıdır . (class) di
 ## Behavioral View 
 
 Sistemin dinamik yapısını ortaya koyan bakış açısıdır. sequence , collaboration , activity , statechart  diyagramları kullanılmaktadır. 
+
+
+### Implementation View 
+
+Sistemin alt modüllerini ortaya koyan bakış açısıdır . (component) diyagramları kullanılmaktadır .
+
+### Environment View 
+
+Donanımın (üzerinde yazılımın çalışacağı), fiziksel mimarisinin ortaya konduğu bakış açısıdır . (deployment) diyagramları kullanılmaktadır .
+
+
+
+
+#### Sıralama Diyagramları
+
+Sequence" kelime anlamı olarak "birbirini takip eden, ardışıl olan, peşi sıra" anlamlarına gelmektedir. 
+
+UML diyagramı olarak ise nesnelerin peşi sıra etkileşimde bulunmalarını ve nesnelerin zaman boyutunda birbirleri ile ilişkiye girmeleri anlamında kullanılmaktadır.
+
+Sıralama (Sequence)  diyagramları nesnelerin birbirleriyle haberleşmesini zaman boyutunda ele almaktadır .
+
+Bir "sequence" diyagramı temel olarak nesnelerden(objects), mesajlardan (messages) ve zaman eksenlerinden(timeline) oluşmaktadır 
+
 
 
 
