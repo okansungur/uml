@@ -1,7 +1,7 @@
 # UML
 
 - UML bir programlama dili değildir. Bir diyagram çizme ve ilişkisel modelleme dilidir 
-- 
+
 - UML ile hazırlanmış bir yazılım hem daha az maliyetli hem daha etkili ve daha uzun ömürlü olur. UML ile dokümantasyonu yapılmış bir programın sonradan düzenlenmesi daha kolay olur.
 
 - UML 'in doğuşu son yıllarda yazılım endüstrisindeki en büyük gelişmelerden biri olarak kabul edilebilir. UML 1997 yılında yazılımın, diyagram şeklinde ifade edilmesi için bir standartlar komitesi tarafından oluşturuldu.
